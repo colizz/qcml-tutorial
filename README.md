@@ -11,8 +11,8 @@
 | Section | Google Colab |
 | --- | --- |
 | [`chap1_basis.ipynb`](chap1_basis.ipynb) | 看视频不用打开 Colab |
-| [`chap2_transformer_anatomy.ipynb`](chap2_transformer_anatomy.ipynb) | [用 Colab 打开](https://colab.research.google.com/gitee/colizz/qcml-2024-tutorial/blob/master/chap2_transformer_anatomy.ipynb) |
-| [`chap3_transformer_training.ipynb`](chap3_transformer_training.ipynb) | [用 Colab 打开](https://colab.research.google.com/gitee/colizz/qcml-2024-tutorial/blob/master/chap3_transformer_training.ipynb) |
+| [`chap2_transformer_anatomy.ipynb`](chap2_transformer_anatomy.ipynb) | [用 Colab 打开](https://colab.research.google.com/github/colizz/qcml-2024-tutorial/blob/master/chap2_transformer_anatomy.ipynb) |
+| [`chap3_transformer_training.ipynb`](chap3_transformer_training.ipynb) | [用 Colab 打开](https://colab.research.google.com/github/colizz/qcml-2024-tutorial/blob/master/chap3_transformer_training.ipynb) |
 
 ### 方法2：在高能所 lxslc 集群上通过预装的 `Jupyter Lab` 运行
 
