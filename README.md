@@ -4,7 +4,7 @@
 
 ## 代码使用
 
-### 方法1：在 Google Colab 上直接打开运行（方便，推荐）
+### 方法1：在 Google Colab 上直接打开运行
 
 可以直接在 Google Colab 上打开 Jupyter 并运行使用
 
