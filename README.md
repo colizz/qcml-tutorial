@@ -1,6 +1,6 @@
-# 量子计算与机器学习研讨会 —— Transformer 学习教程
+# 人工智能和量子计算暑期学校 2024 —— Transformer 学习教程
 
-本仓库是为 2024 年于长春举办的量子计算与机器学习研讨会准备的 Transformer 相关的教程资料。讲义内容以`Jupyter Notebook`写成。
+本仓库是为 2024 年于长春举办的人工智能和量子计算暑期学校准备的 Transformer 相关的教程资料。讲义内容以`Jupyter Notebook`写成。
 
 ## 代码使用
 
