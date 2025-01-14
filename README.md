@@ -15,7 +15,7 @@
 | [`chap3_transformer_training.ipynb`](chap3_transformer_training.ipynb) | [用 Colab 打开](https://colab.research.google.com/github/colizz/ml-tutorial/blob/v2025-01-nku/chap3_transformer_training.ipynb) |
 | [`chap4_transformer_advanced_usage.ipynb`](chap4_transformer_advanced_usage.ipynb) | [用 Colab 打开](https://colab.research.google.com/github/colizz/ml-tutorial/blob/v2025-01-nku/chap4_transformer_advanced_usage.ipynb) |
 
-### 方法2：在高能所 lxslc 集群上通过预装的 `Jupyter Lab` 运行
+### 方法2：在高能所集群上通过预装的 `Jupyter Lab` 运行
 
 在本地打开两个终端。
 
