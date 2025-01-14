@@ -48,7 +48,10 @@ ssh -L 8888:localhost:8888 <用户名>@lxlogin004.ihep.ac.cn # 修改8888和lxlo
 
 ## 内容摘要
 
-- 第一节作为预备章节，将简要介绍 PyTorch 的知识，了解基本原理并熟悉一些常用函数和模块的使用（预计30分钟）。
-- 第二节将在自然语言处理领域的背景下介绍 Transformer 的基础知识，用 PyTorch 从零搭建一个 Transformer 模型，实现对各个组分的代码进行深入理解（预计60分钟）。
-- 第三节将在高能物理实验中事例分类问题进行实战：我们利用 PyTorch + pytorch-lightning 搭建工作流，分别训练一个基础的 MLP 网络，和上节中从零搭建起来的 Transformer 模型；我们会讨论 Transformer 用作分类器的一些要点。最后，我们利用 PyTorch 内建的模块对 Transformer 代码进行简化（预计60分钟）。
-- 第四节将讨论一些前沿的 Transformer 在粒子物理领域开发和应用的进展。我们关注如何针对粒子格式的数据设计性能更优秀的 Tranformer：通过粒子对的不变质量信息作为额外输入，为模型提供 inductive bias。我们从上节的 Transformer 模型开始修改，最终形成类似 Particle Transformer (ParT) 的架构，并讨论由此获得的性能提升。利用已经搭建好的数据流，我们最后提供一个接入 ParT 和 ParticleNet 标准模型文件的接口，利用这些前沿模型训练我们的任务。这为未来在不同的科研场景中适配这些模型提供了一个参考案例。
+第一节作为预备章节，将简要介绍 PyTorch 的知识，了解基本原理并熟悉一些常用函数和模块的使用（预计30分钟）。
+
+第二节将在自然语言处理领域的背景下介绍 Transformer 的基础知识，用 PyTorch 从零搭建一个 Transformer 模型，实现对各个组分的代码进行深入理解（预计60分钟）。
+
+第三节将在高能物理实验中事例分类问题进行实战：我们利用 PyTorch + pytorch-lightning 搭建工作流，分别训练一个基础的 MLP 网络，和上节中从零搭建起来的 Transformer 模型；我们会讨论 Transformer 用作分类器的一些要点。最后，我们利用 PyTorch 内建的模块对 Transformer 代码进行简化（预计60分钟）。
+
+第四节将讨论一些前沿的 Transformer 在粒子物理领域开发和应用的进展。我们关注如何针对粒子格式的数据设计性能更优秀的 Tranformer：通过粒子对的不变质量信息作为额外输入，为模型提供 inductive bias。我们从上节的 Transformer 模型开始修改，最终形成类似 Particle Transformer (ParT) 的架构，并讨论由此获得的性能提升。利用已经搭建好的数据流，我们最后提供一个接入 ParT 和 ParticleNet 标准模型文件的接口，利用这些前沿模型训练我们的任务。这为未来在不同的科研场景中适配这些模型提供了一个参考案例（预计60分钟）。
